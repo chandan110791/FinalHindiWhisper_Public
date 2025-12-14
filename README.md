@@ -1,6 +1,6 @@
-#Enhanced Whisper Model for Hindi Speech Recognition
+#**Enhanced Whisper Model for Hindi Speech Recognition**
 
-#Overview
+#**Overview**
 
 #This repository contains the research and development work of enhancing the Whisper model for Hindi Automatic Speech Recognition (ASR). The project focuses on adapting Whisper to efficiently process Hindi's phonetic and syntactic complexities.
 
@@ -11,3 +11,4 @@ Data Collection and Preprocessing: Utilized datasets from Mozilla Common Voice, 
 Contribution This work contributes to theoretical and practical advancements in speech recognition, particularly for Hindi language processing.
 
 For detailed methodology and findings, refer to the respective chapters of the thesis provided in this repository.
+
